@@ -31,6 +31,6 @@
 
 <p align="center">
 
-## [Download](https://archlinux.tail4a3831.ts.net/)
+## [Download](https://cue-bridge-sensor.vercel.app/)
 
 </p>
